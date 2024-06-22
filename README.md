@@ -1,3 +1,3 @@
 # FitHouse_Gym_Website
 
-Designed a website that contains the services provided by the gym.
+Designed a gym website that contains the services and facilities provided by the gym.
